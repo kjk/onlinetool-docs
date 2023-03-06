@@ -1,6 +1,5 @@
-Docs, issues and discussions for https://onlinetool.io/
+Docs, issues and discussions for tools hosted on [onlinetool.io](https://onlinetool.io/):
 
-This is for all projects hosted on [onlinetool.io](https://onlinetool.io/)
 * notepad2
 * wc
 * unzip
