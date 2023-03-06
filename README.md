@@ -1,2 +1,1 @@
-# onlinetool-docs
-Docs for https://onlinetool.io/
+Docs, issues and discussions for https://onlinetool.io/
