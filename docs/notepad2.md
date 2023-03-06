@@ -9,5 +9,5 @@ Major features:
 * can open files from your computer (in browsers that support it)
 * can store files in the browser
 * syntax highlighting for large number of programming languages
+* windows-like UI: menu, toolbar
 * implements 80%+ of notepad2 functionality
-*
