@@ -10,8 +10,7 @@ export default {
     sidebar: [
       {
         text: "notepad2",
-        items: [{ text: "About Notepad2", link: "/notepad2" }],
-        items: [{ text: "Differences", link: "/notepad2-differences" }],
+        items: [{ text: "About Notepad2", link: "/notepad2" }, { text: "Differences", link: "/notepad2-differences" }],
       },
       {
         text: "Gist Editor",
