@@ -9,16 +9,17 @@ export default {
     },
     sidebar: [
       {
-        text: "Gist Editor",
-        items: [{ text: "Intro", link: "/gist-editor" }],
+        text: "notepad2",
+        items: [{ text: "About Notepad2", link: "/notepad2" }],
+        items: [{ text: "Differences", link: "/notepad2-differences" }],
       },
       {
-        text: "notepad2",
-        items: [{ text: "Intro", link: "/notepad2" }],
+        text: "Gist Editor",
+        items: [{ text: "About Gist Editor", link: "/gist-editor" }],
       },
       {
         text: "wc",
-        items: [{ text: "Intro", link: "/wc" }],
+        items: [{ text: "About wc", link: "/wc" }],
       },
     ],
   },
