@@ -1,3 +1,5 @@
+# Differences from notepad2
+
 We try to be as close as possible to notepad2 but there are differences.
 
 I estimate we implement more than 80% of notepad2 features.
