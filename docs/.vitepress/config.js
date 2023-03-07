@@ -1,6 +1,6 @@
 export default {
   title: "onlinetool.io",
-  description: "Documentation for onlintool.io tools",
+  description: "Documentation for onlinetool.io tools",
   cleanUrls: true,
 
   themeConfig: {
