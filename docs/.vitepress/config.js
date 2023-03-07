@@ -13,6 +13,7 @@ export default {
         text: "notepad2",
         items: [
           { text: "About Notepad2", link: "/notepad2" },
+          { text: "Browse Files Dialog", link: "/notepad2-browse-files" },
           { text: "Differences", link: "/notepad2-differences" },
         ],
       },
